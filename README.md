@@ -16,10 +16,10 @@ Sub Questions:
 ## Part C: Machine learning with varies models and select the best for tuning.
 We will be using regression model for this study as we will be predicting the furture price increment or decrease percentage of bitcoins. We will be using 2 models and 2 ensemble methods namely:
 
-1) Linear Regression\
-2) SVR\
-3) XGBoost\
-4) Random Forest\
+1) Linear Regression
+2) SVR
+3) XGBoost
+4) Random Forest
 And select the model with the best result to do fine tuning.
 
 ***Please note that we will be using real life data hence with every reset best fit model may differs***
